@@ -29,6 +29,8 @@
         - <p align="right">silver</p>
     - Colour: <font color="#660000">Red</font>
     - Font Size: <font size="1">size1</font>
+    - Force a line break: <br/>
+    - Tab: &nbsp;
 
 
 - Codes
