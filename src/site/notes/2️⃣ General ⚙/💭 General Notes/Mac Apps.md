@@ -3,6 +3,7 @@
 ---
 
 
+<mark style="background: #FF5582A6;">NOTE</mark>: Please take a grain of salt when you read this. The list has not been updated for a long time, and all recommendations are for apps that I use regularly at the time.
 <mark style="background: #FFB86CA6;">Updated</mark>: July 19, 2021
 
 - 办公
