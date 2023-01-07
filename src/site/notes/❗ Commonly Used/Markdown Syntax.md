@@ -17,9 +17,9 @@
     - Italics: * *
     - Bold and Italics *** ***
     - Strikethrough a.k.a Strikeout: ~~ ~~
-	- Underline: <u>Text</u>
-	- Superscript: <sup>Text</sup>
-	- Subscript: <sub>Text</sub>
+    - Underline: <u>Text</u>
+    - Superscript: <sup>Text</sup>
+    - Subscript: <sub>Text</sub>
     - Quotes: > + space
     - Images: ![Name](Image Path)
     - Hyperlinks: [Name](The link you want to show)
