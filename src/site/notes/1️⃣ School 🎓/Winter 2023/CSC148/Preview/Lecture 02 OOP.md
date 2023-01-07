@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-school/winter-2023/csc-148/preview/lecture-02-oop/"}
+{"dg-publish":true,"permalink":"/1-school/winter-2023/csc-148/preview/lecture-02-oop/","tags":"gardenEntry"}
 ---
 
 
