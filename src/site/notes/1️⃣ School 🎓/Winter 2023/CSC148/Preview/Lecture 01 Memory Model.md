@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-school/winter-2023/csc-148/preview/lecture-01-memory-model/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/1-school/winter-2023/csc-148/preview/lecture-01-memory-model/","dgPassFrontmatter":true}
 ---
 
 
