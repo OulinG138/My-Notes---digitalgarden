@@ -3,7 +3,7 @@
 ---
 
 
-<mark style="background: #ADCCFFA6;">NOTE:</mark> If you don't know how it works. Just copy and paste them into a markdown editor.   I would recommend Typora due to its simplicity .
+ <mark style="background: #FF5582A6;">NOTE:</mark> If you don't know how it works. Just copy and paste them into a markdown editor. I would recommend Typora due to its simplicity.
 
 ```
 - Titles
