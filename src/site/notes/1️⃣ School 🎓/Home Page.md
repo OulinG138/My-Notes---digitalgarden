@@ -2,10 +2,20 @@
 {"dg-publish":true,"permalink":"/1-school/home-page/","tags":"gardenEntry"}
 ---
 
+![](https://i.imgur.com/KIjQXsf.jpg)
 
-# My Notes
-Welcome to the home page, where most of the notes about CS related are collected, there are also some other types of notes you can learn from, if you need to them you can search by yourself.
+Welcome to the home page, where most of the CS related notes are collected. There are also some other types of notes you can take a look at, and if you need, you can continue to search in the search box.
 
+&nbsp;
 
-### Contents
-* [[1️⃣ School 🎓/Home Page\|]]
+### Lecture Notes
+* CSC108
+* CSC148
+
+&nbsp;
+
+### Others
+* Markdown Snytax
+* LaTeX Cheatsheet
+
+*To Be Continued...*
