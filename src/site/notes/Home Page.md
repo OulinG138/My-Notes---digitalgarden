@@ -12,6 +12,7 @@ Welcome to the home page, where most of the CS related notes are collected. Ther
 ### Lecture Notes
 * CSC108
 * CSC148
+* CSC165
 
 
 ### Others
