@@ -47,6 +47,10 @@ print(lst)
 
 
 ## Function
+- Terminology
+	- **Frame**: Data about a function call (including local variables)
+	- **Call Stack**: A collection of the frames of the functions that are currently running.
+- Example: 
 ```python
 def mess_about(s, n):
     message = s * n 
