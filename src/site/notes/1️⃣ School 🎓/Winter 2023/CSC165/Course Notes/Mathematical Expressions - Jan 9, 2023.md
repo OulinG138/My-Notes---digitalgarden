@@ -90,13 +90,13 @@ $$
 * Other Operations to perform on sets
 	* **Union**: $A \cup B$ is the set consisting of all elements that occur in <mark style="background: #FF5582A6;">$A$ or $B$ or in both</mark>
 	* **Intersection**:  $A \cap B$ is the set consisting of all elements  that occur in <mark style="background: #FF5582A6;">both $A$ and $B$</mark>
-	* **Difference**: $A \ B$ is the set consisting of all elements  that occur in <mark style="background: #FF5582A6;">$A$ but not $B$</mark>
+	* **Difference**: $A \setminus B$ is the set consisting of all elements  that occur in <mark style="background: #FF5582A6;">$A$ but not $B$</mark>
 	* **Cartesian Product**: $A \times B$ is the set of all pairs of $(a, b)$ where $a \in A$ and $b \in B$
 		* e.g. $\{0, 1\} \times \{a, b, c\} = \{(0, a), (0, b), (0, c), (1, a), (1, b), (1, c)\}$
 	*  **Finite sets**: $|A \times B| = |A| \cdot |B|$
-	* **Power set**: $P(A) = \{S \text{ | } S \text{ is a subset of A}\}$
+	* **Power set**: $P(A) = \{S \text{ | } S \subseteq A\}$
 		* E.g. $A = \{1, 6, 5\}$
-			* $P(A) = \{\text{empty set}, \{1\}, \{2\}, \{3\}, \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}$
+			* $P(A) = \{\emptyset, \, \{1\}, \{2\}, \{3\}, \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}$
 
 
 
