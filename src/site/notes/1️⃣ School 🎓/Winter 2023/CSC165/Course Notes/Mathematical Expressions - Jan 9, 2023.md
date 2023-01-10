@@ -93,14 +93,15 @@ $$
 	* **Difference**: $A \setminus B$ is the set consisting of all elements  that occur in <mark style="background: #FF5582A6;">$A$ but not $B$</mark>
 	* **Cartesian Product**: $A \times B$ is the set of all pairs of $(a, b)$ where $a \in A$ and $b \in B$
 		* e.g. $\{0, 1\} \times \{a, b, c\} = \{(0, a), (0, b), (0, c), (1, a), (1, b), (1, c)\}$
-		* Let $A$ and $B$ be non-empty finite sets. Then the Cartesian Product is finite and it holds: $|A \times B| = |A| \cdot |B|$
-	* **Power set**[^3]: $P(A) = \{S \text{ | } S \subseteq A\}$
+		* Let $A$ and $B$ be non-empty finite sets[^3]. Then the Cartesian Product is finite and it holds: $|A \times B| = |A| \cdot |B|$
+	* **Power set**[^4]: $P(A) = \{S \text{ | } S \subseteq A\}$
 		* E.g. $A = \{1, 6, 5\}$
-			* $P(A) = \{\emptyset, \, \{1\}, \{2\}, \{3\}, \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}$[^4]
+			* $P(A) = \{\emptyset, \, \{1\}, \{2\}, \{3\}, \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}$[^5]
 
 
 
  [^1]: A set is a collection of distinct objects, which we call elements of the set.
 [^2]: In mathematics, the cardinality of a set is a measure of the number of elements of the set.
-[^3]: Returns the set consisting of all subsets of A.
-[^4]: Every set is a subset of itself, and the empty set is a subset of every set: $A \subseteq A$ and $\emptyset \in A$ are always True.
+[^3]: Finite sets are sets having a finite/countable number of members.
+[^4]: Returns the set consisting of all subsets of A.
+[^5]: Every set is a subset of itself, and the empty set is a subset of every set: $A \subseteq A$ and $\emptyset \subseteq A$ are always True.
