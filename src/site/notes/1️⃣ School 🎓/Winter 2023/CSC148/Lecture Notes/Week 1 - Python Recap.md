@@ -77,7 +77,8 @@ if __name__ == '__main__':
 
 - Step 4
 ![](https://i.imgur.com/9gxkWpS.png)
-![](https://i.imgur.com/dARonFp.png)
+![](https://i.imgur.com/9bUeG1D.png)
+
 
 
 - Step 5: Outside of `mess_about` function
