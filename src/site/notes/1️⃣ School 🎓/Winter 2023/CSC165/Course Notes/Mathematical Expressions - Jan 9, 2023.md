@@ -34,7 +34,7 @@ $$
 		* $10100101$
 		* $1$
 		* $001$
-		* But <mark style="background: #FF5582A6;">NOT</mark> $165$ for example, because finite number part are digits not binary values.
+		* But <mark style="background: #FF5582A6;">NOT</mark> $165$ for example, because its finite number part are digits not binary values.
 	* The length of $b_0b_1b_2 ... b_{k-1}$ is $k$.
 	* Empty String is typically denoted by the symbol $\,\epsilon\,$ has length $0$.
 2.  Another way to describe a Set.
@@ -93,12 +93,14 @@ $$
 	* **Difference**: $A \setminus B$ is the set consisting of all elements  that occur in <mark style="background: #FF5582A6;">$A$ but not $B$</mark>
 	* **Cartesian Product**: $A \times B$ is the set of all pairs of $(a, b)$ where $a \in A$ and $b \in B$
 		* e.g. $\{0, 1\} \times \{a, b, c\} = \{(0, a), (0, b), (0, c), (1, a), (1, b), (1, c)\}$
-	*  **Finite sets**: $|A \times B| = |A| \cdot |B|$
-	* **Power set**: $P(A) = \{S \text{ | } S \subseteq A\}$
+		* Let $A$ and $B$ be non-empty finite sets. Then the Cartesian Product is finite and it holds: $|A \times B| = |A| \cdot |B|$
+	* **Power set**[^3]: $P(A) = \{S \text{ | } S \subseteq A\}$
 		* E.g. $A = \{1, 6, 5\}$
-			* $P(A) = \{\emptyset, \, \{1\}, \{2\}, \{3\}, \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}$
+			* $P(A) = \{\emptyset, \, \{1\}, \{2\}, \{3\}, \{1, 2\}, \{1, 3\}, \{2, 3\}, \{1, 2, 3\}\}$[^4]
 
 
 
  [^1]: A set is a collection of distinct objects, which we call elements of the set.
 [^2]: In mathematics, the cardinality of a set is a measure of the number of elements of the set.
+[^3]: Returns the set consisting of all subsets of A.
+[^4]: Every set is a subset of itself, and the empty set is a subset of every set: $A \subseteq A$ and $\emptyset \in A$ are always True.
