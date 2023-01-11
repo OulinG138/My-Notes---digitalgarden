@@ -8,7 +8,6 @@ Welcome to the home page, where most of the CS related notes are collected. Ther
 - &#8592; Tap the icon with three horizontal bars in the upper left corner to see the list of files.
 - &#8594; You should see "On this page" on your right. If you don't, then decrease your page size.
 
-
 &nbsp;
 
 ### Lecture Notes
