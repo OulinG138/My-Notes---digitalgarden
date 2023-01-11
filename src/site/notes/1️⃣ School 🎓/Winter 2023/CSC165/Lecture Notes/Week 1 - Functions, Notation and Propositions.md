@@ -132,3 +132,10 @@ Proposition: Every even integer greater than $2$ is the sum of the prime numbers
 
 
 [^1]: The predecessor function is a function that maps a natural number n to the previous natural number, n – 1.
+	$$
+ pred(n)=
+ \begin{cases}
+ 0, &n=0 \\
+ n-1, &n>0
+ \end{cases}
+ $$
