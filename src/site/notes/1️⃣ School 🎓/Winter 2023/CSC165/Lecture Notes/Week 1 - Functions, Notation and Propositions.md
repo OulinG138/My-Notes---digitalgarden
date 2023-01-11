@@ -13,14 +13,14 @@
 			- E.g.
 				- $pred(7) = 6$
 				- $pred(0) = -1$
-	- $+: R \times R -> R$(A binary function)
+	- $+: R \times R \rightarrow R$(A binary function)
 		- Defined by $+(x, y) = x + y$
 	- A function with $k$ arguments: a $k$-ary function
 
 &nbsp;
 
 ### Predicate
-- Definition: A function whose codomain is $(\text{True, False})$
+- **Predicate**: A function whose codomain is $(\text{True, False})$
 - Examples: 
 
 
@@ -42,12 +42,12 @@ $$
 
 1.  $P_{165}: Z \rightarrow \{\text{T, F}\}$
 	- Defined by $P_{165}(x): x > 165$
-			- e.g. $P_{165}(240)$ is True
-	- Given a predicate $P: D -> \{\text{T, F}\}$
+		- e.g. $P_{165}(240)$ is True
+	- Given a predicate $P: D \rightarrow \{\text{T, F}\}$
 		- We can define $S = \{x \text{ | } x \in D \text{ and } P(x) \text{ is True } \}$
 
 3. Likewise, given a subset $S$ of $D$, we can define a predicate.
-	- $P: D -> \{\text{T, F}\}$
+	- $P: D \rightarrow \{\text{T, F}\}$
 		- Defined by: 
 
 
@@ -95,11 +95,11 @@ for i in range(j, n + 1):
 ### Products
 - For indices $j \le n$,
 	- $\prod_{i=j}^{n}{f(i) = f(j) \times f(j+1) \times … \times f(n-1) \times f(n)}$ 
-	- <mark style="background: #FF5582A6;">Note</mark>: where $j > n$, take $\prod_{i=j}^{n}{f(i) = 1}$
+	- **Note**: where $j > n$, take $\prod_{i=j}^{n}{f(i) = 1}$
 
 
 ## Propositional Logic
-- Proposition: A statement that is either True or False.
+- **Proposition**: A statement that is either True or False.
 - Examples:
 	- True Statement
 		-  $2 + 4 = 6$
@@ -126,7 +126,7 @@ $$
 ```ad-faq
 title: Think About
 
-**Proposition:** Every even integer greater than $2$ is the sum of the prime numbers.
+Proposition: Every even integer greater than $2$ is the sum of the prime numbers.
 ```
 
 
