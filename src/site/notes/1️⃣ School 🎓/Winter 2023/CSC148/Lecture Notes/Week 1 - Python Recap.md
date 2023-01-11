@@ -62,7 +62,7 @@ if __name__ == '__main__':
     word = 'OK' 
     mess_about(count, word)
 ```
-[[1️⃣ School 🎓/Fall 2022/💻 CSC108/Nov 15, 2022 - '__main__'\|Nov 15, 2022 - '__main__']]
+Related: [[1️⃣ School 🎓/Fall 2022/💻 CSC108/Week 8 -  '__main__' block\|Week 8 -  '__main__' block]]
 
 - Step 1
 ![](https://i.imgur.com/WzVkH8g.png)
