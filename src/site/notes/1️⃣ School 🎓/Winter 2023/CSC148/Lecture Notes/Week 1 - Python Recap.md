@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-school/winter-2023/csc-148/lecture-notes/week-1-python-recap/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/1-school/winter-2023/csc-148/lecture-notes/week-1-python-recap/","dgPassFrontmatter":true}
 ---
 
 
@@ -14,7 +14,8 @@ print(x, y)
 # Output: [1, 2, 3] [1, 2, 3, 4]
 ```
 
-![](https://i.imgur.com/fAh44xT.png)
+![](https://i.imgur.com/BPA4Swb.png)
+
 
 2. 
 ```python
