@@ -3,6 +3,8 @@
 ---
 
 
+## What does it do?
+- We can use an  `if __name__ == '__main__'`  block to allow or prevent parts of code from being run when the modules are imported.
 ```python
 # This is file1
 def func(x):
@@ -14,6 +16,8 @@ if __name__ == '__main__':
 	#This code does not get executed when this file1 is imported.
 	print(func(5))
 ```
+
+&nbsp;
 
 ## Choosing Text Cases
 * Size
@@ -34,9 +38,11 @@ if __name__ == '__main__':
 	* Differences in the input's order
 
 
+&nbsp;
+
 ## Test Module
 ```python
-#We don't want to run this part of code when the files is imported.
+# We don't want to run this part of code when the files is imported.
 if __name__ == '__main__':
 	import doctest
 	doctest.testmod(f'filename', #filename)
