@@ -2,6 +2,12 @@
 {"dg-publish":true,"permalink":"/1-school/winter-2023/csc-148/lecture-notes/week-1-python-recap/"}
 ---
 
+<font size="1">Note taking: Obsidian</font>
+<font size="1">Diagram: Excalidraw</font>
+<font size="1">Code Editor: VS Code</font>
+
+&nbsp;
+
 
 ## Tracing Simple Code
 1. 
