@@ -127,7 +127,7 @@ $$
 ```ad-faq
 title: Think About
 
-Proposition: Every even integer greater than $2$ is the sum of the prime numbers.
+Proposition: Every even integer greater than $2$ is the sum of two prime numbers.
 ```
 
 
