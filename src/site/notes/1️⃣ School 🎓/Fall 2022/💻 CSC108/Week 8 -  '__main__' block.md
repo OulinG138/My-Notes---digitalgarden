@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-home":false,"permalink":"/1-school/fall-2022/csc-108/week-8-main-block/","dgPassFrontmatter":true}
 ---
 
-
+Related: [[1️⃣ School 🎓/Winter 2023/CSC148/Lecture Notes/Week 1 - Python Recap\|Week 1 - Python Recap]]
 ## What does it do?
 - We can use an  `if __name__ == '__main__'`  block to allow or prevent parts of code from being run when the modules are imported.
 ```python
@@ -16,7 +16,6 @@ if __name__ == '__main__':
 	#This code does not get executed when this file1 is imported.
 	print(func(5))
 ```
-
 
 &nbsp;
 
