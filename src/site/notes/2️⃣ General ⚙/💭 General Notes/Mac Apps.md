@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-general/general-notes/mac-apps/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/2-general/general-notes/mac-apps/","dgPassFrontmatter":true}
 ---
 
 
