@@ -82,7 +82,7 @@ $$
 	- For integer indices $j \le n$,
 	- Defined by $\sum\limits_{i=j}^{n}{f(i)=f(j) + f(j+1) + … f(n-1) + f(n)}$
 		- $n$ represents the upper bound and $i=j$ represents the lower bound
-	- Note: where $j > n$, take  $\sum\limits_{i=j}^{n}{f(i)=0}$
+	- **Note**: where $j > n$, take  $\sum\limits_{i=j}^{n}{f(i)=0}$
 - In Python:
 	- When $j > n$  $\rightarrow s = 0$ 
 ```python
