@@ -33,7 +33,7 @@ $$
 		* $10100101$
 		* $1$
 		* $001$
-		* But <mark style="background: #FF5582A6;">NOT</mark> $165$ for example, because its finite number part are digits not binary values.
+		* But **NOT** $165$ for example, because its finite number part are digits not binary values.
 	* The length of $b_0b_1b_2 ... b_{k-1}$ is $k$.
 	* Empty String is typically denoted by the symbol $\,\epsilon\,$ has length $0$.
 2.  Another way to describe a Set.
