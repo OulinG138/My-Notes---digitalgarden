@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-general/general-notes/markdown-syntax/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/2-general/general-notes/markdown-syntax/","dgPassFrontmatter":true}
 ---
 
 
