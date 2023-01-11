@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/home-page/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-home":true,"permalink":"/home-page/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 ![](https://i.imgur.com/dlh7s14.jpg)
 Welcome to the home page, where most of the CS related notes are collected. There are also some other types of notes you can take a look at, and if you need, you can continue to search in the search box.
 
-<mark style="background: #FF5582A6;">NOTE</mark>: &#8592; Tap the icon with three horizontal bars in the upper left corner to see the table of contents.
+- &#8592; Tap the icon with three horizontal bars in the upper left corner to see the list of files.
+- &#8594; You should see "On this page" on the left. If you don't, then decrease your page size.
+
 
 &nbsp;
 
