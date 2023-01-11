@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-school/fall-2022/csc-108/oct-20-2022-read-files/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/1-school/fall-2022/csc-108/oct-20-2022-read-files/","dgPassFrontmatter":true}
 ---
 
 
