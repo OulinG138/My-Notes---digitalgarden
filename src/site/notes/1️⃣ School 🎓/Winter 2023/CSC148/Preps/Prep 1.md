@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-school/winter-2023/csc-148/preps/prep-1/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/1-school/winter-2023/csc-148/preps/prep-1/","dgPassFrontmatter":true}
 ---
 
 
