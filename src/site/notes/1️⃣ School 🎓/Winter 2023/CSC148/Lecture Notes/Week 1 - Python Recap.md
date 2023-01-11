@@ -62,6 +62,7 @@ if __name__ == '__main__':
     word = 'OK' 
     mess_about(count, word)
 ```
+
 [[1️⃣ School 🎓/Fall 2022/💻 CSC108/Week 8 -  '__main__' block\|Week 8 -  '__main__' block]]
 
 - Step 1
