@@ -40,11 +40,12 @@ $$
 <br/>
 
 
-1.  $P_{165}: Z \rightarrow \{\text{T, F}\}$
+2. $P_{165}: Z \rightarrow \{\text{T, F}\}$
 	- Defined by $P_{165}(x): x > 165$
 		- e.g. $P_{165}(240)$ is True
 	- Given a predicate $P: D \rightarrow \{\text{T, F}\}$
 		- We can define $S = \{x \text{ | } x \in D \text{ and } P(x) \text{ is True } \}$
+
 
 3. Likewise, given a subset $S$ of $D$, we can define a predicate.
 	- $P: D \rightarrow \{\text{T, F}\}$
@@ -132,10 +133,4 @@ Proposition: Every even integer greater than $2$ is the sum of the prime numbers
 
 
 [^1]: The predecessor function is a function that maps a natural number n to the previous natural number, n – 1.
-	$$
- pred(n)=
- \begin{cases}
- 0, &n=0 \\
- n-1, &n>0
- \end{cases}
- $$
+	$$pred(n)=\begin{cases}0, &n=0 \\n-1, &n>0\end{cases}$$
