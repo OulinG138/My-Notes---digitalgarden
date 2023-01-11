@@ -7,7 +7,7 @@
 - The range of $f$ is the set $\{f(x) \text{ | } x \in A\}$
 	- $range(f) \subseteq B$
 - Example of Functions:
-	-  *Predecessor Function*[^1](A unary function)
+	-  **Predecessor Function**[^1](A unary function)
 		- $pred()$: $Z \rightarrow Z$
 			- Defined by $pred(x) = x-1$
 			- E.g.
