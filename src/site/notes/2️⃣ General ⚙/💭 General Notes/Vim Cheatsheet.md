@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-general/general-notes/vim-cheatsheet/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/2-general/general-notes/vim-cheatsheet/","dgPassFrontmatter":true}
 ---
 
 
