@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-school/winter-2023/csc-165/lecture-notes/week-1-mathematical-expressions/"}
+{"dg-publish":true,"dg-home":false,"permalink":"/1-school/winter-2023/csc-165/lecture-notes/week-1-mathematical-expressions/","dgPassFrontmatter":true}
 ---
 
 
