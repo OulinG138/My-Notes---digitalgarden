@@ -63,7 +63,7 @@ if __name__ == '__main__':
     mess_about(count, word)
 ```
 
-[[1️⃣ School 🎓/Fall 2022/💻 CSC108/Week 8 -  '__main__' block\|Week 8 -  '__main__' block]]
+[[1️⃣ School 🎓/Fall 2022/💻 CSC108/Week 8 -  main block\|Week 8 -  main block]]
 
 - Step 1
 ![](https://i.imgur.com/WzVkH8g.png)
