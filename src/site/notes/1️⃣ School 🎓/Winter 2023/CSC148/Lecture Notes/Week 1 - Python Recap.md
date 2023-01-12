@@ -51,7 +51,7 @@ print(lst)
 - Terminology
 	- **Frame**: Data about a function call (including local variables)
 	- **Call Stack**: A collection of the frames of the functions that are currently running.
-- Example: 
+- Example in Python: 
 ```python
 def mess_about(s, n):
     message = s * n 
@@ -88,4 +88,34 @@ Related: [[1️⃣ School 🎓/Fall 2022/💻 CSC108/Week 8 -  main block\|Week 
 
 - Step 5: Outside of `mess_about` function
 ![](https://i.imgur.com/jRQTL4M.png)
+
+### Practices from mem-model-worksheet
+1. 
+```python
+def f1(thing: list) -> None:
+	thing = ['x', 1] + thing
+
+if __name__ == '__main__':
+	phone = [9]
+	f1(phone)
+	print(phone)
+
+# Output: [9]
+```
+![](https://i.imgur.com/dBeKJBG.png)
+
+2. 
+```python
+def f1(thing: list) -> None:
+	thing.extend(['x', 1])
+
+if __name__ == '__main__':
+	phone = [9]
+	f1(phone)
+	print(phone)
+
+# Output: [9, 'x', 1]
+```
+![](https://i.imgur.com/AoAGFhg.png)
+
 
