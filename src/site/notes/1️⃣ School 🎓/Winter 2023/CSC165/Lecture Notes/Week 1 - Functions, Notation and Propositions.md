@@ -91,12 +91,12 @@ for i in range(j, n + 1):
 	s += f(i)
 ```
 
-&nbsp;
-
 ### Products
 - For indices $j \le n$,
 	- $\prod_{i=j}^{n}{f(i) = f(j) \times f(j+1) \times … \times f(n-1) \times f(n)}$ 
 	- **Note**: where $j > n$, take $\prod_{i=j}^{n}{f(i) = 1}$
+
+&nbsp;
 
 
 ## Propositional Logic
