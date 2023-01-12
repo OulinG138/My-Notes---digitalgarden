@@ -41,7 +41,10 @@ def test_simple() -> None:
 	assert input_list == expected # Assertion Statement
 ```
 
-- Test examples with library `hypothesis` (**Optional**)
+&nbsp;
+
+**Optional**
+- Test examples with library `hypothesis` 
 	- We can import decorator[^1] from Python Package `hypothesis` which starts with symbol `@` to generate random examples.
 	- For Reference: [Welcome to Hypothesis! — Hypothesis 6.62.0 documentation](https://hypothesis.readthedocs.io/en/latest/)
 ```python
@@ -64,7 +67,7 @@ from hypothesis.strategies import text, integers, floats, lists
 
 - You can also write import statement in one line:
 ```python
-from hypothesis import given, strategies
+from hypothesis import given, strategies as st
 
 @given(st.lists(st.integers()))
 ```
