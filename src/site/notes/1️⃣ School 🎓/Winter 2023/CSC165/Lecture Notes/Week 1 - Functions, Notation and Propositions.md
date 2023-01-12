@@ -86,6 +86,10 @@ $$
 - In Python:
 	- When $j > n$  $\rightarrow s = 0$ 
 ```python
+def f(x: int):
+	"""Do Something"""
+	pass
+
 s = 0
 for i in range(j, n + 1):
 	s += f(i)
