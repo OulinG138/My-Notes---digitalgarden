@@ -17,8 +17,6 @@
 		- Defined by $+(x, y) = x + y$
 	- A function with $k$ arguments: a $k$-ary function
 
-&nbsp;
-
 ### Predicate
 - **Predicate**: A function whose codomain is $(\text{True, False})$
 - Examples: 
@@ -37,8 +35,6 @@ Even(x) =
 
 \end{cases}
 $$
-<br/>
-
 
 2. $P_{165}: Z \rightarrow \{\text{T, F}\}$
 	- Defined by $P_{165}(x): x > 165$
@@ -65,8 +61,6 @@ $$
 <br/>
 
 ## Summation and Product Notation
-
-&nbsp;
 
 ### Summation
 - $1 + 2 + 3 + 4 + … + 100 \rightarrow 1 + 2 + 3 + 4 + i + 100$ 
