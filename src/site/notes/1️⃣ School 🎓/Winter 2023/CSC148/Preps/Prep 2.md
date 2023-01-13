@@ -43,3 +43,10 @@ if __name__ == '__main__':
 
 5. 
 ![](https://i.imgur.com/06R5lM1.png)
+
+
+## From the weekly quiz
+- When calling a method in a class, you can either call it with the created instance/object `team` or directly with the class name `HockeyTeam`.
+![](https://i.imgur.com/ASy8a0C.png)
+
+
