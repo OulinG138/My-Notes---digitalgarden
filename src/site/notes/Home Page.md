@@ -21,6 +21,6 @@
 ### Others
 * Mac App Recommendations(中文)
 * Markdown Syntax
-* LaTeX Cheatsheet
-* Vim Cheatsheet
+* LaTeX 
+* Vim Cheat sheet
 
