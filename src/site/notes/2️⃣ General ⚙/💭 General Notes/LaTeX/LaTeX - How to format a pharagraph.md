@@ -13,6 +13,9 @@
 \usepackage{amsmath}
 \usepackage[margin=2.5cm]{geometry}
 \usepackage{graphix}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{framed}
 
 # 题目区
 \title{Insert title here}
@@ -56,6 +59,29 @@
 \includegraphics[width=0.5\textwidth]{图片名不带后缀} # 添加图片
 \caption{添加注释}
 \end{figure}
+
+
+\begin{verbatism}
+
+代码块 code
+
+\end{verbatism}
+
+
+
+\dots # . . .
+
+
+## Proofs
+\begin{quote}
+\end{quote}
+
+
+\being{description}
+\end{description}
+
+\begin{framed}
+\end{framed}
 
 
 ## 无序列表
