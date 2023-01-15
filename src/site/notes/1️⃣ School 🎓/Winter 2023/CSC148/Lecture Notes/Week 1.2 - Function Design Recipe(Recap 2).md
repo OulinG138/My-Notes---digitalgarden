@@ -50,7 +50,7 @@ def test_simple() -> None:
 	- We can import and use decorator[^1] from Python Package `hypothesis` which starts with symbol `@` to generate random examples.
 	- For Reference: 
 		- [Welcome to Hypothesis! — Hypothesis 6.62.0 documentation](https://hypothesis.readthedocs.io/en/latest/)
-		- https://www.teach.cs.toronto.edu/~csc148h/winter/notes//testing/hypothesis.html
+		- [CSC148 Hypothesis Notes](https://www.teach.cs.toronto.edu/~csc148h/winter/notes//testing/hypothesis.html)
 ```python
 from hypothesis import example, given, settings
 from hypothesis.strategies import text, integers, floats, lists
