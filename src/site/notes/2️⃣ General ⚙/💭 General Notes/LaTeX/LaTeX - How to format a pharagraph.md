@@ -25,11 +25,25 @@
 
 \textbf{*arg} # 加粗字体
 \textit{*arg} # 斜体
+\emph{*args} # 斜体
+\texttt{} # monospace
 \underline{*arg} # 下划线
 
 \section{章节名} # 添加章节
 在章节下添加内容
 
+\newpage
+
+## vertical space
+\bigskip
+\medskip
+\smallskip
+
+\noindent # cancel auto indentation
+
+\tag{Eq. 1}
+
+~\footnote{} 
 
 \subsection{子章节名}
 子章节内容
@@ -38,7 +52,7 @@
 .........
 
 \begin{figure}
-\center    # 居中
+\centering    # 居中
 \includegraphics[width=0.5\textwidth]{图片名不带后缀} # 添加图片
 \caption{添加注释}
 \end{figure}
@@ -73,6 +87,10 @@ or
 \]
 
 
+\url{} # 网址
+\href{YOUR URL}{TEXT FOR YOUR HYPERLINK} # 超链接hyperlink
+
+
 ## 表格
 \begin{table}
 \begin{tabular}{|l|c|r|} # 左对齐 居中 右对齐 |:加边框
@@ -88,12 +106,8 @@ or
 \end{table}
 
 
-
 \begin{align*}
 \end{align*}
 
 \end{document}
-
-
-
 
