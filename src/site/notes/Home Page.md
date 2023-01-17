@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/home-page/","tags":"gardenEntry","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/home-page/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 ![](https://i.imgur.com/dlh7s14.jpg)
