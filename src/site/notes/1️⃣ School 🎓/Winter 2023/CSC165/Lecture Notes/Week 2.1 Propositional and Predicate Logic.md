@@ -10,8 +10,8 @@
 	- $q$: **conclusion of this implication**
 - Truth Table
 $$
-\begin{array}{|c c |c }
-p & q & p \Rightarrow q & \\
+\begin{array}{|c c|c|}
+p & q & p \Rightarrow q \\
 \hline 
 False & False & True \\
 False & True & True \\
@@ -21,8 +21,8 @@ True & True & True
 $$
 - Vacuous Truth[^1]
 $$
-\begin{array}{|c c|c}
-p & q & p \Rightarrow q & \\
+\begin{array}{|c c|c |}
+p & q & p \Rightarrow q \\
 \hline 
 False & False & True \\
 False & True & True 
@@ -30,23 +30,23 @@ False & True & True
 $$
 - $p \rightarrow q$ and $\neg p \lor q$ are logically equivalent.
 
+&ensp;
 
-2. 
-- If you are a Pens fan , then you are not a Flyus fan.
+2.  If you are a Pens fan , then you are not a Flyus fan.
 	-  $p=$  "You are a Pens fan", $q=$  "You are not a Flyus fan."
 		- $p \Rightarrow q$ : Suppose you are a Flyus fan. 
 			-  $\neg q$ is True.
 		- What can we conclude?
 			- $p$ must be false or $\neg p$ is True.
 			- We can conclude:  $\neg q \Rightarrow \neg p$
-
-- Terms
+3. Terms
 	- **Contrapositive**: $p \Rightarrow q$ is logically equivalent to $\neg q \Rightarrow \neg p$ 
 	- **Converse** of $p \Rightarrow q$ is $q \Rightarrow p$, they are not logically equivalent.
-	- **Biconditional biimplication**
+	- **Biconditional bi-implication**
 		- $p \Leftrightarrow q$ says $p$, $q$ denote the same truth value
 			- $p$ and $q$ means $(p \Rightarrow q) \land (q \Rightarrow p)$
 
+&ensp;
 
 ## Propositions and Predicates
 - Consider the propositions:
@@ -54,7 +54,7 @@ $$
 	- '$3$ is divisible by $3$' is $T$
 	- '$4$ is divisible by $3$' is $F$
 	- '$5$ is divisible by $3$' is $F$
-	- '4 is divisible by $3$' is $T$
+	- '$4$ is divisible by $3$' is $T$
 - Consider Predicate functions:
 	- '$x$ is divisible by $3$'
 		- $P(x):$ '$x$ is divisible by $3$', where $x \in \mathbb{N}$
@@ -68,9 +68,10 @@ $$
 		- Is $R(x)$ always True?
 			- No. $R(1)$ is False.
 
+&ensp;
+
 ## Express using quantifiers
--  e.g.
-	- **Existential quantification**: $\exists x \in \mathbb{N}, R(x)$
+-   **Existential quantification**: $\exists x \in \mathbb{N}, R(x)$
 		- $\exists x \in \mathbb{N} \text{ s.t. } R(x)$ is True
 		- $(\exists x \in D, P(x)) \Leftrightarrow (P(x_1) \lor P(x_2) \lor P(x_3) \lor \dots)$
 	- **Universal quantification**: $\forall x \in \mathbb{N}, R(x)$
@@ -82,7 +83,7 @@ $$
 				- $\forall x \in R$,  $\forall y \in R$,   $x+y=y+x$ 
 				-  $\forall y \in R$, $\forall x \in R$, $x+y=y+x$
 					- **Multiple universal quantifiers**: We can just package them, $\forall x, y \in R$, $x+y=y+x$
-				- <mark style="background: #CACFD9A6;">Exception</mark>: $\forall x, y \in \mathbb{R}$, $x-y=y-x$
+				- <mark style="background: #FF5582A6;">Exception</mark>: $\forall x, y \in \mathbb{R}$, $x-y=y-x$
 					- Take $x = 0$ and $y=1$, the statement's false
 				- $\exists x \in \mathbb{R}$, $\exists y \in R$, $x-y=y-x$
 					- Take $x=0$ and $y=0$
@@ -91,7 +92,7 @@ $$
 				-  $\text{Set }A$ = $\{1, 2, 3, 4\}$
 					- $\forall x \in A$, $\exists y \in A$, $x+y=5$ is True
 					- $\exists y \in A$, $\forall x \in A$, $x+y=5$ is False
-			- ==Conclusion==: the order of the quantifiers matters when different. 
+			- <mark style="background: #FF5582A6;">Conclusion</mark>: the order of the quantifiers matters when different.
 
 
 
