@@ -21,6 +21,7 @@ if __name__ == '__main__':
     t1 = Tweet('Giovanna', "2017, 9, 18", 'Hello')
     print(t1.userid)
 ```
+- `__init__` initialize an object's attributes and serves no other purpose.
 
 - Diagrams
 ![](https://i.imgur.com/A6BtKgS.png)
