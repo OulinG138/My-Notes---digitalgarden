@@ -28,7 +28,7 @@ False & False & True \\
 False & True & True 
 \end{array}
 $$
-- $p \rightarrow q$ and $\neg p \lor q$ are logically equivalent.
+- $p \Rightarrow q$ and $\neg p \lor q$ are logically equivalent.
 
 &ensp;
 
