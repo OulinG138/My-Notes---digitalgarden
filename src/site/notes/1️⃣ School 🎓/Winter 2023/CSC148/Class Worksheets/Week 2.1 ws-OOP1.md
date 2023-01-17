@@ -4,7 +4,7 @@
 
 ## Q1
 ```python
-s Spinner:
+class Spinner:
     """A spinner for a board game."""
     slots: int
     position: int
@@ -57,7 +57,7 @@ class Tweet:
         self.content = what
         self.likes = 0
 
-### NOTE: This edit() implementation is incorrect
+	###NOTE: This edit() implementation is incorrect
     def edit(self, new_content: str) -> None:
         """Replace the contents of this tweet with the new message. 
         """
