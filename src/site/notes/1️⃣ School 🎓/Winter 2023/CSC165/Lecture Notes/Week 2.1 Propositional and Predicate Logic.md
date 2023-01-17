@@ -39,7 +39,7 @@ $$
 		- What can we conclude?
 			- $p$ must be false or $\neg p$ is True.
 			- We can conclude:  $\neg q \Rightarrow \neg p$
-3. Terms
+3. Terminology
 	- **Contrapositive**: $p \Rightarrow q$ is logically equivalent to $\neg q \Rightarrow \neg p$ 
 	- **Converse** of $p \Rightarrow q$ is $q \Rightarrow p$, they are not logically equivalent.
 	- **Biconditional bi-implication**
