@@ -37,7 +37,8 @@ direction TD
 		+userid: str
 		+created_at: date
 		+likes: int
-		+earnings() None
+		+like() None
+		+edit() None
 		}
 	class User{
 		+userid: str
