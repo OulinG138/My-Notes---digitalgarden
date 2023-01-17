@@ -26,7 +26,7 @@ Related Worksheet: [[1️⃣ School 🎓/Winter 2023/CSC148/Class Worksheets/Wee
 ## Composition of Classes
 - **Definition**: A relationship between two classes where instances of one class contain references to instances of the other
 - Link to worksheet example: [[1️⃣ School 🎓/Winter 2023/CSC148/Class Worksheets/Week 2.2 ws-OOP2\|Week 2.2 ws-OOP2]]
-	-  UML Diagram (For understanding)
+	-  UML Class Diagram (Just for understanding)
 
 ```mermaid
 classDiagram
