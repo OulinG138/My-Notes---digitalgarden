@@ -29,7 +29,7 @@ title: Write following sentence in symbolic form.
 
 <br/>
 
-<center><font color="#87CEEB">All employee earning over 50,000 are female</font color></center>
+<center><h6>All employee earning over 50,000 are female</h6></center>
 
 - <mark style="background: #FF5582A6;">False solutions</mark>:
 	- $\forall x \in E, O(x) \land F(x):$ says all employee who earn over 50,000 and are female
