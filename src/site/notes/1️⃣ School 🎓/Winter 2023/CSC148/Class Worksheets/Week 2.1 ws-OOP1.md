@@ -3,6 +3,7 @@
 ---
 
 ## Q1
+
 ```python
 class Spinner:
     """A spinner for a board game."""
@@ -43,6 +44,9 @@ if __name__ == '__main__':
 &nbsp;
 
 ## Q2
+{ #c497ae}
+
+
 - <mark style="background: #FF5582A6;">False Solution</mark>
 ```python
 from datetime import date
