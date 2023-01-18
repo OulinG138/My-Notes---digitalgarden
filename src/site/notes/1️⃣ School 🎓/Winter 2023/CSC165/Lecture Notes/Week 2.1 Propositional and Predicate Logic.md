@@ -71,28 +71,28 @@ $$
 &ensp;
 
 ## Express using quantifiers
--   **Existential quantification**: $\exists x \in \mathbb{N}, R(x)$
-		- $\exists x \in \mathbb{N} \text{ s.t. } R(x)$ is True
-		- $(\exists x \in D, P(x)) \Leftrightarrow (P(x_1) \lor P(x_2) \lor P(x_3) \lor \dots)$
-	- **Universal quantification**: $\forall x \in \mathbb{N}, R(x)$
-		- $\forall x \in \mathbb{N}, R(x)$ is True
-		- $(\forall  x \in D, P(x)) \Leftrightarrow (P(x_1) \land  P(x_2) \land P(x_3) \land \dots)$
-	- **Multiple quantifiers**
-		- In general, you can reorder variables when both/all universally quantified.
-			- Examples:
-				- $\forall x \in R$,  $\forall y \in R$,   $x+y=y+x$ 
-				-  $\forall y \in R$, $\forall x \in R$, $x+y=y+x$
-					- **Multiple universal quantifiers**: We can just package them, $\forall x, y \in R$, $x+y=y+x$
-				- <mark style="background: #FF5582A6;">Exception</mark>: $\forall x, y \in \mathbb{R}$, $x-y=y-x$
-					- Take $x = 0$ and $y=1$, the statement's false
-				- $\exists x \in \mathbb{R}$, $\exists y \in R$, $x-y=y-x$
-					- Take $x=0$ and $y=0$
-					- **Multiple existential quantifiers**: This is the same as $\exists y \in \mathbb{R}$, $x \in \mathbb{R}$, $x-y=y-x$
-	- **Mix of quantifiers**
-				-  $\text{Set }A$ = $\{1, 2, 3, 4\}$
-					- $\forall x \in A$, $\exists y \in A$, $x+y=5$ is True
-					- $\exists y \in A$, $\forall x \in A$, $x+y=5$ is False
-			- <mark style="background: #FF5582A6;">Conclusion</mark>: the order of the quantifiers matters when different.
+- **Existential quantification**: $\exists x \in \mathbb{N}, R(x)$
+	- $\exists x \in \mathbb{N} \text{ s.t. } R(x)$ is True
+	- $(\exists x \in D, P(x)) \Leftrightarrow (P(x_1) \lor P(x_2) \lor P(x_3) \lor \dots)$
+- **Universal quantification**: $\forall x \in \mathbb{N}, R(x)$
+	- $\forall x \in \mathbb{N}, R(x)$ is True
+	- $(\forall  x \in D, P(x)) \Leftrightarrow (P(x_1) \land  P(x_2) \land P(x_3) \land \dots)$
+- **Multiple quantifiers**
+	- In general, you can reorder variables when both/all universally quantified.
+		-  Examples:
+			1. $\forall x \in R$,  $\forall y \in R$,   $x+y=y+x$ 
+			2. $\forall y \in R$, $\forall x \in R$, $x+y=y+x$
+				- **Multiple universal quantifiers**: We can just package them, $\forall x, y \in R$, $x+y=y+x$
+			3. <mark style="background: #FF5582A6;">Exception</mark>: $\forall x, y \in \mathbb{R}$, $x-y=y-x$
+				- Take $x = 0$ and $y=1$, the statement's false
+			4. $\exists x \in \mathbb{R}$, $\exists y \in R$, $x-y=y-x$
+				- Take $x=0$ and $y=0$
+				- **Multiple existential quantifiers**: This is the same as $\exists y \in \mathbb{R}$, $x \in \mathbb{R}$, $x-y=y-x$
+-  **Mix of quantifiers**
+	- $\text{Set }A$ = $\{1, 2, 3, 4\}$
+	- $\forall x \in A$, $\exists y \in A$, $x+y=5$ is True
+	- $\exists y \in A$, $\forall x \in A$, $x+y=5$ is False
+	- <mark style="background: #FF5582A6;">Conclusion</mark>: the order of the quantifiers matters when different.
 
 
 
