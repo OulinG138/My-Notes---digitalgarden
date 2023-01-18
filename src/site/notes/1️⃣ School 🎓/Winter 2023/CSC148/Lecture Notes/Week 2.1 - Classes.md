@@ -37,14 +37,14 @@ direction TD
 		+userid: str
 		+created_at: date
 		+likes: int
-		+like() None
-		+edit() None
+		+like(int) None
+		+edit(str) None
 		}
 	class User{
 		+userid: str
 		+bio: str
 		+tweets: list[Tweet]  
-		+tweet() None
-		+follows() None
+		+tweet(str) None
+		+follows(str) None
 	}
 ```
