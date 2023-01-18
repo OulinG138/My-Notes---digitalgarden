@@ -18,7 +18,7 @@
 			- $\neg (\exists \in D, P(x)) \Leftrightarrow \forall x \in D, \neg P(x)$
 
 
-#### Example
+### Example
 - Suppose: 
 	- Domain $E:$ $\text{Set of Employee}$
 	-  Predicate
@@ -29,7 +29,7 @@ title: Write following sentence in symbolic form.
 
 <br/>
 
-###### <center>All employee earning over 50,000 over female</center>
+###### <center>All employee earning over 50,000 are female</center>
 
 - <mark style="background: #FF5582A6;">False solutions</mark>:
 	- $\forall x \in E, O(x) \land F(x):$ says all employee who earn over 50,000 and are female
