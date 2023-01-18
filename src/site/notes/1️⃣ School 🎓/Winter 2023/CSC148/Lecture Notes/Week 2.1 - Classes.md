@@ -9,7 +9,7 @@ def f(self, x):
 	y = expression # Incorrect
 	self.y = expression # Correct
 ```
-Related Worksheet: [[1️⃣ School 🎓/Winter 2023/CSC148/Class Worksheets/Week 2.1 ws-OOP1\|Week 2.1 ws-OOP1]]
+Related Worksheet: [[1️⃣ School 🎓/Winter 2023/CSC148/Class Worksheets/Week 2.1 ws-OOP1#^b3e4b3\|class Spinner]]
 
 &nbsp;
 
@@ -19,7 +19,7 @@ def mutate(self, x):
 	# Re-assigning self doesn’t mutate anything!
 	self = NewObject(x)
 ```
-Related Worksheet: [[1️⃣ School 🎓/Winter 2023/CSC148/Class Worksheets/Week 2.1 ws-OOP1\|Week 2.1 ws-OOP1]]
+Related Worksheet: [[1️⃣ School 🎓/Winter 2023/CSC148/Class Worksheets/Week 2.1 ws-OOP1#^c497ae\|class Tweet]]
 
 &nbsp;
 
