@@ -26,7 +26,7 @@ if __name__ == '__main__':
 ```
 
 - Memory Model 
-![](https://i.imgur.com/zHRpsvg.png)
+![](https://i.imgur.com/B9cxaeu.png)
 
 
 - Debugging to see the memory model
