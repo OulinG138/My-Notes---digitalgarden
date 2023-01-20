@@ -20,10 +20,10 @@ attributes that every instance of a class must satisfy.
 1. **Use preconditions**
 	- Require client code to call methods with “good” inputs.  Make no promises if it doesn’t. Therefore, the method doesn’t need to check that preconditions are met.
 	- ![](https://i.imgur.com/BX5JjR4.png)
-2. ignore bad inputs
+2. **Ignore bad inputs**
 	- Accept a wide range of inputs. If an input would cause an RI to be violated, do not perform the work of the method. Also known as *failing silently*.
 	- ![](https://i.imgur.com/kYVCd1d.png)
-3. Fix "bad" inputs
+3. **Fix "bad" inputs**
 	- Accept a wide range of inputs. If an input would cause an RI to be violated, change the input to a “reasonable” or default value. Then continue with the rest of the method.
 	- ![](https://i.imgur.com/5DMlWd2.png)
 
