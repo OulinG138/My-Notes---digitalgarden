@@ -3,7 +3,7 @@
 ---
 
 ## What is Representation Invariants
-- **Defintion**: A representation invariant is a property of the instance  
+- **Definition**: A representation invariant is a property of the instance  
 attributes that every instance of a class must satisfy.
 - Example:
 	- (in words) This tweet’s content is at most 280 characters.
