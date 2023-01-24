@@ -54,7 +54,20 @@ $$
 >  **Statement**: Every real number $n$ bigger than $20$ satisfies the inequality $1.5n - 4 \ge 3$
 1. Yes, since $1.5n - 4$ is equal to a line with positive slope. Try $n=40$, $1.5(40) - 4 = 56 \ge 3$
 2. $\forall n \in \mathbb{R}, n > 20 \Rightarrow 1.5n - 4 \ge 3$
-3. Rough Work$$\begin{align}\text{Arbitrary }n \in \mathbb{R} \\ \text{Assume } n > 20 \\ 1.5n > 30 \\ 1.5n - 4 > 26 \\ \ge 3\end{align}$$
+3. Rough Work
+$$
+\begin{align}
+\text{Arbitrary }n &\in \mathbb{R} \\ 
+\text{Assume } n &> 20 \\ 
+1.5n &> 30 \\ 
+1.5n - 4 &> 26 \\ 
+&\ge 3
+\end{align}
+$$
+
+
+
+
 4. Proof: 
 
 $$
