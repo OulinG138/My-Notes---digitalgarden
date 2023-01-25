@@ -29,7 +29,7 @@ title: How could we express “There are infinitely many even numbers?”
 - **Disproof**: An argument that shows that a statement is False.
 
 ### Start Writing Proofs
-> **Statement:** Some power of two is greater than 100.
+> **Statement:** Some power of two is greater than 1000.
 1. Think is True since some powers of 2 grows to $\infty$
 2. $\exists n \in \mathbb{Z}, 2^{n} > 1000$ or $\exists n \in \mathbb{Z}, P(n) \text{ where } P(n): \text{``}2^{n} > 1000\text{"}, \text{ where } n \in \mathbb{N}$ (**Type**: An existentially quantified predicate)
 3. Rough Work
