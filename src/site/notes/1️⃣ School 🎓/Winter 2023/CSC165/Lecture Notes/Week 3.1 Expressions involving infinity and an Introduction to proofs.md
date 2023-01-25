@@ -46,7 +46,7 @@ $$
 \end{align*} 
 $$
 $$
-\text{Hence, } \exists x \in \mathbb{Z}, 2^{x} > 1000
+\text{Hence, } \exists x \in \mathbb{N}, 2^{x} > 1000
 $$
 
 ----
