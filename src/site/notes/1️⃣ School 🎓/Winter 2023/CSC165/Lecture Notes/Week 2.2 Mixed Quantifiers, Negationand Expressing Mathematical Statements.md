@@ -69,7 +69,7 @@ title: Write following sentence in symbolic form.
 
 ## Divisibility
 - **Definition**: Let $n, d \in \mathbb{Z}$. We say that $d$ divides $n$ or $n$ is divisible by $d$ if and only if there exists a multiplier $k \in \mathbb{Z}$ such that $n = d\cdot k$.
-- **Notation**: $d \mid k$, represents '$d$ divides $n$'
+- **Notation**: $d \mid n$, represents '$d$ divides $n$'
 	- $\mid$ is a predicate like $=, <, >$
 - Examples:
 	- $3 \mid 6$ True
