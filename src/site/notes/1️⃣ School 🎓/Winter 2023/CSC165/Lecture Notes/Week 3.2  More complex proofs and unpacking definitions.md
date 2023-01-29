@@ -94,7 +94,7 @@ $\forall p \in \mathbb{N}, \forall x \in \mathbb{N}, (Prime(p) \lor x\mid (x+p) 
 \begin{gather}
 \text{Assume } Prime(p) \\
 \text{and } x\mid (x+p)\\
-\text{want to show} x=1 \text{ or } x=p
+\text{want to show } x=1 \text{ or } x=p
 \end{gather}
 $$
 $\text{From an earliear work today, } x\mid (x+p) \Rightarrow x\mid p$
