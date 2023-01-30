@@ -44,7 +44,7 @@ title: Write following sentence in symbolic form.
 
 &nbsp;
 
-## De Morgan's Rules
+## deMorgan's Rules
 - $\neg (p \lor q) \equiv \neg p \land \neg q$
 - $\neg (p \land q) \equiv \neg p \lor \neg q$
 - $p \Rightarrow q \equiv \neg p \lor q$
